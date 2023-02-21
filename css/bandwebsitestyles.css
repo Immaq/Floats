@@ -1,10 +1,12 @@
 .sidebar {
-    width: 30%;
+    width: 50%;
     float: right;
-    background-color: blueviolet;
+    background-color: yellowgreen;
+    font-family: Franklin Gothic Medium;
+    font-size: larger;
   }
   .column {
-    width: 800px;
+    width: 600px;
     float: left;
     margin: 20px;
   }
